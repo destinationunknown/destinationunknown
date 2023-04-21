@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Varun
 
 - I'm a CS Major at Georgia Tech, graduating May 2024
-- 🌱 I’m currently working on this year's [Advent of Code](https://adventofcode.com/)
+- 🌱 I’m currently learning C++ and Haskell
 
 <!---
 destinationunknown/destinationunknown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
